@@ -1,3 +1,3 @@
-def catch_phrase
+def status
   puts phrase
 end
